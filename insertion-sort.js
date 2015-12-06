@@ -11,4 +11,4 @@ const insertionSort = (x) => {
 	return x
 }
 
-console.log(insertionSort( [3, 2, 1] ))
+console.log(insertionSort( [3, 2, 1, 23, 6, 98, 12, 42] ))
